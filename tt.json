@@ -5,9 +5,8 @@
       "name": "哔哩兔影视",
       "type": 3,
       "api": "csp_Bilituys",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "searchable": 1
+
     }
   ],
   "lives": [
