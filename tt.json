@@ -7,6 +7,14 @@
       "api": "csp_Bilituys",
       "searchable": 1
 
+    },
+    {
+      "key": "madou",
+      "name": "麻豆传媒",
+      "type": 3,
+      "api": "csp_MaDou",
+      "searchable": 0
+
     }
   ],
   "lives": [
