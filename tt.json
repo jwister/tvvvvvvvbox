@@ -13,8 +13,8 @@
       "name": "麻豆传媒",
       "type": 3,
       "api": "csp_MaDou",
-      "searchable": 1,
-      "quickSearch": 1
+      "searchable": 1
+
 
     }
   ],
